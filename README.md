@@ -4,5 +4,6 @@
 -> Paid close attention to details to make sure it looks just like Netflix.<br>
 
 
-https://github.com/AdityaVerma10/Netflix-Clone/assets/119062848/2ff10dde-2f12-4fcd-a441-85128d93072c
+
+https://github.com/AdityaVerma10/Netflix-Clone/assets/119062848/16fa349e-362a-4b7f-a379-71ff84a5da02
 
